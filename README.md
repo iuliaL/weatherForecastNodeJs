@@ -1,5 +1,5 @@
 ### Weather Forecast
- A basic command line application that takes coordinates as input and it retrieves the current forecast of that geographical spot.
+ A basic command line application that takes coordinates as input and it retrieves the current forecast of that geographical spot through an API provided by [Forecast.io](https://developer.forecast.io/).
  
 ####For example:
 ######node app.js 48.8567 2.3508 (i.e Paris)
