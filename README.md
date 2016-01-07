@@ -1,5 +1,5 @@
-### weatherForecastNodeJs
- A command line application that takes coordinates and it retrieves the forecast for today for that geographical spot.
+### Weather Forecast
+ A basic command line application that takes coordinates as input and it retrieves the current forecast of that geographical spot.
  
 ####For example:
 ######node app.js 48.8567 2.3508 (i.e Paris)
